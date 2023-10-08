@@ -1,4 +1,4 @@
-describe('Facebook signing signup tests', () =>{
+describe('LAW singing singup tests', () =>{
 
 
     beforeEach(() => {
